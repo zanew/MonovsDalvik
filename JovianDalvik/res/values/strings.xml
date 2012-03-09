@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, JovianDalvikActivity!</string>
+    <string name="app_name">JovianDalvik</string>
+    <string name="numberOfSteps">Number of steps</string>
+    <string name="startJovian">Start Jovian Simulation</string>
+    <string name="defaultSteps">1000</string>
+
+</resources>

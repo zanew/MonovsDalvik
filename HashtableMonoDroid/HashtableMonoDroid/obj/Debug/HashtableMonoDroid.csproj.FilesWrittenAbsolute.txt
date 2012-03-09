@@ -1,0 +1,12 @@
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/bin/Debug/HashtableMonoDroid.dll.mdb
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/bin/Debug/HashtableMonoDroid.dll
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/bin/Debug/HashtableMonoDroid.HashtableMonoDroid.apk
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/obj/Debug/android/bin/HashtableMonoDroid.HashtableMonoDroid.apk
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/obj/Debug/res/layout/main.axml
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/obj/Debug/res/values/strings.xml
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/obj/Debug/res/drawable/icon.png
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/obj/Debug/R.cs.flag
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/bin/Debug/HashtableMonoDroid.HashtableMonoDroid-Signed.apk
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/obj/Debug/uploadflags.txt
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/obj/Debug/HashtableMonoDroid.dll
+/Users/zanewhitney/Projects/HashtableMonoDroid/HashtableMonoDroid/obj/Debug/HashtableMonoDroid.dll.mdb

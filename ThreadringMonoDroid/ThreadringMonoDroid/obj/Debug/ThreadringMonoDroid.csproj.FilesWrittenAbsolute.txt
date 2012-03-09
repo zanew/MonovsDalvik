@@ -1,0 +1,12 @@
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/bin/Debug/ThreadringMonoDroid.dll.mdb
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/bin/Debug/ThreadringMonoDroid.dll
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/bin/Debug/ThreadringMonoDroid.ThreadringMonoDroid.apk
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/obj/Debug/android/bin/ThreadringMonoDroid.ThreadringMonoDroid.apk
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/obj/Debug/res/layout/main.axml
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/obj/Debug/res/values/strings.xml
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/obj/Debug/res/drawable/icon.png
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/obj/Debug/R.cs.flag
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/bin/Debug/ThreadringMonoDroid.ThreadringMonoDroid-Signed.apk
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/obj/Debug/uploadflags.txt
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/obj/Debug/ThreadringMonoDroid.dll
+/Users/zanewhitney/Projects/ThreadringMonoDroid/ThreadringMonoDroid/obj/Debug/ThreadringMonoDroid.dll.mdb

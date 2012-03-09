@@ -1,0 +1,45 @@
+package threadring.dalvik;
+
+import android.app.Activity;
+import android.os.Bundle;
+import java.util.concurrent.locks.LockSupport;
+
+import threadring.dalvik.ThreadRing.MessageThread;
+
+public class ThreadRingDalvikActivity extends Activity {
+    /** Called when the activity is first created. */
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+
+        final int THREAD_COUNT = 503;
+
+        int hopCount = 50000000;
+
+        MessageThread first = null;
+        MessageThread last = null;
+        for (int i = THREAD_COUNT; i >= 1 ; i--) {
+          first = new MessageThread(first, i);
+          if(i == THREAD_COUNT) last = first;
+        }
+        // close the ring:
+        last.nextThread = first;
+
+        // start all Threads
+        MessageThread t = first;
+        do{
+          t.start();
+          t = t.nextThread;
+        }while(t != first);
+        // inject message
+        first.enqueue(hopCount);
+        try {
+			first.join();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} // wait for System.exit
+      }
+}
+

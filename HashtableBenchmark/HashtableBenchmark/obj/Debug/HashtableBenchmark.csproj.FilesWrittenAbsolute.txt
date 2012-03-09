@@ -1,0 +1,12 @@
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/bin/Debug/HashtableBenchmark.dll.mdb
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/bin/Debug/HashtableBenchmark.dll
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/bin/Debug/HashtableBenchmark.HashtableBenchmark.apk
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/obj/Debug/android/bin/HashtableBenchmark.HashtableBenchmark.apk
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/obj/Debug/res/layout/main.axml
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/obj/Debug/res/values/strings.xml
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/obj/Debug/res/drawable/icon.png
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/obj/Debug/R.cs.flag
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/bin/Debug/HashtableBenchmark.HashtableBenchmark-Signed.apk
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/obj/Debug/uploadflags.txt
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/obj/Debug/HashtableBenchmark.dll
+/Users/zanewhitney/Projects/HashtableBenchmark/HashtableBenchmark/obj/Debug/HashtableBenchmark.dll.mdb
