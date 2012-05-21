@@ -3,7 +3,5 @@
 
     <string name="hello">Hello World, BintreesDalvikActivity!</string>
     <string name="app_name">BintreesDalvik</string>
-    <string name="quantityLabel">Number of Steps</string>
-    <string name="startSim">Start Simulation</string>
 
 </resources>

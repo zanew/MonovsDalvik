@@ -7,18 +7,15 @@ public class BintreesDalvikActivity extends Activity {
     /** Called when the activity is first created. */
     int steps = 15;
     private final static int minDepth = 4;
-
-    @Override
+    
+	@Override
     public void onCreate(Bundle savedInstanceState) {
-       super.onCreate(savedInstanceState);
-       setContentView(R.layout.main);
-
-
-       // for (int i=0; i<65; ++i) BintreesDalvikActivity.program_main(steps,false);
-       BintreesDalvikActivity.program_main(steps,true);
-
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        
+        BintreesDalvikActivity.program_main(steps,true);
     }
-
+	
     public static void program_main(int steps, boolean isWarm) {
 
         Stopwatch watch = new Stopwatch();
@@ -46,9 +43,8 @@ public class BintreesDalvikActivity extends Activity {
         if (isWarm)
             System.out.println("long lived tree of depth " + maxDepth + "\t check: "+ longLivedTree.itemCheck());
         watch.stop();
-        System.out.println("Seconds to compute: " + watch.read() + "");
     }
-
+    
     private static class TreeNode
     {
         private TreeNode left, right;
